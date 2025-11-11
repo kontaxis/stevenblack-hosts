@@ -1,0 +1,8 @@
+# Per https://support.google.com/a/answer/6214622 as well as
+# https://support.google.com/a/answer/6212415 control over the
+# following domain names can block access to YouTube.
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
